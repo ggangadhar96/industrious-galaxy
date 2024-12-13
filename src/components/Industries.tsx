@@ -1,7 +1,7 @@
-import { Chip, Database, Factory, Network, Server, Building2 } from "lucide-react";
+import { CircuitBoard, Database, Factory, Network, Server, Building2 } from "lucide-react";
 
 const industries = [
-  { name: "Software Solutions", icon: Chip, description: "Enterprise-grade software development" },
+  { name: "Software Solutions", icon: CircuitBoard, description: "Enterprise-grade software development" },
   { name: "Data Centers", icon: Server, description: "Global data infrastructure" },
   { name: "Manufacturing", icon: Factory, description: "Smart manufacturing facilities" },
   { name: "Real Estate", icon: Building2, description: "Commercial property development" },
